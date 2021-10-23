@@ -1,6 +1,4 @@
 # bank-me-later
-Use a PyTorch dense-net to predict if a client subscribes to a term deposit or not.
+Use a PyTorch dense-net to predict if a client subscribes to a term deposit or not using
+attributes like job, marital status, age etc with an accuracy of 93.62%
 
-To Do:
-* Update readme.
-* Create a simple pipeline for passing data through the trained model.
